@@ -1,0 +1,10 @@
+git status                                                       
+git init                                                        
+git config --global user.name "uname"
+git config --global user.email souvrajit.chatterjee@gaussnetworks.com
+git config user.name "umane"
+git config user.email souvrajit.chatterjee@gaussnetworks.com
+got add
+git commit -m ""
+git log
+Git diff <filename> 
