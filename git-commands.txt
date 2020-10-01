@@ -1,4 +1,4 @@
-git status                                                       
+git status         to check git folder satus                                              
 git init                                                        
 git config --global user.name "uname"
 git config --global user.email souvrajit.chatterjee@gaussnetworks.com
