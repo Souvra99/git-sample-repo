@@ -8,3 +8,6 @@ got add
 git commit -m ""
 git log
 Git diff <filename> 
+
+
+New changes in sample 
