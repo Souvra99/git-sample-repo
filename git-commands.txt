@@ -1,6 +1,6 @@
 git status         to check git folder satus                                              
-git init                                                        
-git config --global user.name "uname"
+git init            to check status                                            
+git config --global user.name "uname"   to create author name
 git config --global user.email souvrajit.chatterjee@gaussnetworks.com
 git config user.name "umane"
 git config user.email souvrajit.chatterjee@gaussnetworks.com
